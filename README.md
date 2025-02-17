@@ -8,11 +8,11 @@
 
 - 👩‍💻 I have experienced **in both backend and frontend, including Java, Spring Boot, ReactJS, JavaScript, MySQL, MongoDB, ...**
 
-- 📫 How to reach me [serena.to.598@gmail.com](serena.to.598@gmail.com)
+- 📫 How to reach me [serena.se.598@gmail.com](serena.se.598@gmail.com)
 
 - 📝 My porfolio [https://serena-to.netlify.app](https://serena-to.netlify.app)
 
-- 📄 Know about my experiences [https://serena-to.netlify.app/resume.pdf](https://serena-to.netlify.app/resume.pdf)
+- 📄 Know about my experiences [https://serena-to.netlify.app/Serena_To_Resume.pdf](https://serena-to.netlify.app/Serena_To_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
